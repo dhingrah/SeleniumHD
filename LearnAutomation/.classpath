@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/commons-codec-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/commons-exec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/commons-io-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/commons-lang3-3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/cssparser-0.9.22.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/gson-2.8.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/guava-21.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/htmlunit-2.26.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/htmlunit-core-js-2.26.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/htmlunit-driver-2.26.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/httpclient-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/httpcore-4.4.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/httpmime-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/jna-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/junit-4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/neko-htmlunit-2.25.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/sac-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/serializer-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/xalan-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium Jar files/Jars/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

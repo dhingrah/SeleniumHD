@@ -1,0 +1,1 @@
+java -cp "E:\Dhingra_java\LearnAutomation\lib\*;E:\Dhingra_java\LearnAutomation\bin" org.testng.TestNG testng.xml
